@@ -1,7 +1,5 @@
 # Hunter | Cybersecurity Engineer 👾
 
----
-
 ### 👨‍💻 About Me  
 Passionate about cybersecurity and data science. Loves to break stuff and learn how to prevent it from breaking.  
 Constantly sharpening skills and learning new things.
