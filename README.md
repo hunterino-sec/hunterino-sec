@@ -31,5 +31,3 @@ Constantly sharpening skills and learning new things.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
 </div>
-
----
